@@ -1,0 +1,16 @@
+{
+  "name": "using-proxy-and-chrome-debug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "proxy-chain": "^2.3.0",
+    "puppeteer": "^21.3.8"
+  }
+}
